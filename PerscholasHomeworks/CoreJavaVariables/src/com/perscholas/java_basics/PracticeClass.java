@@ -108,6 +108,8 @@ public class PracticeClass {
         double totalSale =  subtotal + subtotalTax ;
         System.out.println("Total sale is: " + String.format("%.2f", totalSale ));
 
+        int aaa = 99;
+        
 
 
 
