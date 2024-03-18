@@ -13,7 +13,7 @@ public class AssignmentOperatorsDemo {
         System.out.println("J is : " + j);
         System.out.println("k is : " + k);
             // Multiplication Assignments
-        
+
         k = j = 10; // (k = (j= 10))
         System.out.println("j is :" + j);
         System.out.println("k is :" + k);
