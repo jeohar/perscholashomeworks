@@ -1,3 +1,5 @@
+package ExtraActivities;
+
 public class ExtraActivities {
 
 
