@@ -12,8 +12,11 @@ out/
 .springBeans
 .sts4-cache
 bin/
+hs_err_pid23860.log
+hs_err_pid29072.log
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+perscholashomeworks.iml
 
 ### NetBeans ###
 /nbproject/private/
